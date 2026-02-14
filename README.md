@@ -47,11 +47,9 @@
     </td>
   </tr>
 </table>
-----
-## 🎀 Tecnologías que uso
-
 ---
-
+## 🎀 Tecnologías que uso
+---
 ### 🎨 Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-FF61F6?style=for-the-badge&logo=html5&logoColor=white)
@@ -99,7 +97,7 @@
 ✨ Mentalidad competitiva y enfocada  
 
 
-## 📊 Estadísticas
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Estadisticas
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=esthsara&show_icons=true&theme=radical&title_color=ff61f6&icon_color=ba55d3&text_color=ffffff&bg_color=0d1117" />
